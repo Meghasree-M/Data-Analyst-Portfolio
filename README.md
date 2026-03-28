@@ -1,4 +1,4 @@
-Data Analyst Portfolio
+## Data Analyst Portfolio
 
 Welcome! This repository contains my Data Analyst projects built using Excel, SQL, and Power BI.
 
