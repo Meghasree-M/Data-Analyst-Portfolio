@@ -9,11 +9,11 @@ Welcome! This repository contains my Data Analyst projects built using Excel, SQ
 ### 1. Bike Buyers Analysis Dashboard (Excel)
 - Built an interactive dashboard using Pivot Tables, Pivot Charts, and Slicers.
 - Includes KPI cards such as Total Customers, Conversion Rate, Avg Income, and Avg Age.
-🔗 Project Link: [Bike Buyers Dashboard](PASTE_YOUR_REPO_LINK_HERE)
+🔗 Project Link: [Bike Buyers Dashboard](https://github.com/Meghasree-M/Excel-Bike-Buyers-Dashboard.git)
 
 ### 2. Sales Dashboard Project (Excel)
 - Sales trend analysis with region and product insights.
-🔗 Project Link: [Sales Dashboard](PASTE_YOUR_REPO_LINK_HERE)
+🔗 Project Link: [Sales Dashboard](https://github.com/Meghasree-M/sales-dashboard-excel.git)
 
 ---
 
